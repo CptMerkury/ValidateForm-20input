@@ -1,0 +1,69 @@
+/*google font*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/*general css*/
+body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+/*header*/
+.nav-bar {
+    background: linear-gradient(-90deg, #84CF6A, #16C0B0);
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+/*app*/
+.product {
+    margin: 0 auto;
+    width: 90%;
+}
+
+/*input form*/
+.form {
+    float: left;
+    padding: 20px;
+    width: 40%;
+    margin-right: 5%;
+}
+
+.userInfo {
+    width: 95%;
+    display: block;
+    font-family: Montserrat, sans-serif;
+    margin: 10px 0;
+}
+
+input[type='submit'] {
+
+}
+
+/*group form */
+.information {
+}
+
+/*group form */
+.adress {
+
+}
+
+/*group form */
+.document {
+}
+
+/*create user field*/
+.username {
+    padding-top: 21px;
+}
+
+/*sub class input*/
+.cap {
+    text-transform: capitalize;
+}
+
+.none{
+    position: relative;
+    right: 45%;
+}
